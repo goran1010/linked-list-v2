@@ -139,7 +139,7 @@ console.log(people.getSize());
 console.log(people.contains("John"));
 console.log(people.find("Odin"));
 console.log(people.toString());
-people.insertAt("Jackie", 0);
+people.insertAt("Jackie", 2);
 console.log(people.toString());
 people.removeAt(0);
 console.log(people.toString());
